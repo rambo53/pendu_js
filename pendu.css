@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;
+}
+
+#div_jeu{
+    background-color: aliceblue;
+  
+    margin-bottom: 5vh;
+}
+
+.bouton_alpha{
+    margin-right: 1vw;
+    cursor: pointer;
+}
+
+.utilise{
+    pointer-events:none;
+    background-color: red; 
+}
+
+#reponse{
+    color: aliceblue;
+}
